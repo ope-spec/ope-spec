@@ -1,6 +1,6 @@
 <!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![ope-spec_banner](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=2000&q=60)
-<h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Opeyemi Ogunniyi</h1>
+![ope-spec_banner](https://wallpaperbat.com/img/397330-programmers-wallpaper-collection-programacao-web-programacao.png)
+<h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Opeyemi Adegboye</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
@@ -10,8 +10,8 @@
       <!--<p>- 🔭 I’m currently working on <b>a clone of the AirBnB web app</b></p>-->
           <p>- 🌱 I’m currently learning <b>c language</b></p>
           <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-          <p>- 📫 How to reach me: <b><a href=mailto:opeyemiogunniyi230@gmail.com
-                            alt=email>opeyemiogunniyi230@gmail.com</a></b></p>
+          <p>- 📫 How to reach me: <b><a href=mailto:opeyemiadegboye22@gmail.com
+                            alt=email>opeyemiadegboye22@gmail.com</a></b></p>
           <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 12)</b></p>
     </td>
     <td>
