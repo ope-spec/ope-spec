@@ -1,8 +1,7 @@
-<!--![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)-->
-![ope-spec_banner](https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png)
-<h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Opeyemi Adegboye</h1>
+![ope-spec_banner](https://github.com/ope-spec/ope-spec/blob/main/backoievgd.png)
+<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">, I'm Opeyemi Adegboye</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
-<!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
+
 
 <table>
   <tr>
