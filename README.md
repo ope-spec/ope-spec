@@ -86,7 +86,7 @@
   </tr>
 </table>
 
- <p align="center"> <a href="https://www.linkedin.com/in/opeyemi-adegboye-58a35b1b4/" target="blank"><img src="https://img.shields.io/twitter/follow on Linkedin/Opeyemi-Adegboye?logo=twitter&style=for-the-badge" alt="ope-spec" /></a> </p>
+ <p align="center"> <a href="https://www.linkedin.com/in/opeyemi-adegboye-58a35b1b4/" target="blank"><img src="https://img.shields.io/twitter/follow/Opeyemi-Adegboye?logo=twitter&style=for-the-badge" alt="ope-spec" /></a> </p>
 
 ## My Github Stats:
 
