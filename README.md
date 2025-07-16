@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-<p align="center"> <a href="https://twitter.com/opeyemiademidun" target="blank"><img src="https://img.shields.io/twitter/follow/opeyemiademidun?logo=twitter&style=for-the-badge" alt="aysuarex" /></a> </p>
+ <p align="center"> <a href="https://www.linkedin.com/in/opeyemi-adegboye-58a35b1b4/" target="blank"><img src="https://img.shields.io/twitter/follow on Linkedin/Opeyemi-Adegboye?logo=twitter&style=for-the-badge" alt="ope-spec" /></a> </p>
 
 ## My Github Stats:
 
@@ -105,13 +105,13 @@
 </table>
 
 
-<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=ope-spec&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=ope-spec&label=Profile%20views&color=0e75b6&style=flat" alt="ope-spec" /> </p>
 
 
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysuarex&show_icons=true&locale=en&layout=compact" alt="aysuarex" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aysuarex&show_icons=true&locale=en" alt="aysuarex" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysuarex&" alt="aysuarex" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ope-spec&show_icons=true&locale=en&layout=compact" alt="ope-spec" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ope-spec&show_icons=true&locale=en" alt="ope-spec" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ope-spec&" alt="ope-spec" /></p>
 -->
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aysuarex" alt="aysuarex" /></a> </p>-->
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ope-spec" alt="ope-spec" /></a> </p>-->
