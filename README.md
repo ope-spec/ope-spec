@@ -9,8 +9,8 @@
       <!--<p>- 🔭 I’m currently working on <b>a clone of the AirBnB web app</b></p>-->
           <p>- 🌱 I’m currently learning <b>Go language</b></p>
           <p>- 💬 Ask me about <b>Anything in my stack</b></p>
-          <p>- 📫 How to reach me: <b><a href=mailto:opeyemiadegboye22@gmail.com
-                            alt=email>opeyemiadegboye22@gmail.com</a></b></p>
+          <p>- 📫 How to reach me: <b><a href=mailto:opeyemiolabisiadegboye@gmail.com
+                            alt=email>opeyemiolabisiadegboye@gmail.com</a></b></p>
          <!-- <p>- ⚡ Fun fact: <b>I'm a student of the ALX Software Engineering Programme (cohort 12)</b></p>-->
           <p>- ⚡ Fun fact: <b>I'm a data engineer with expertise in Azure Cloud environment, SSIS and Backend Development</b></p>
     </td>
