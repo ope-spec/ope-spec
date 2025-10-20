@@ -17,14 +17,14 @@
     <td>
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-      <a href="https://twitter.com/opeyemiademidun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                            alt="opeyemiademidun" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/opeyemi-ogunniyi-58a35b1b4" target="blank"><img align="center"
+      <!--<a href="https://twitter.com/opeyemiademidun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                            alt="opeyemiademidun" height="30" width="40" /></a>-->
+      <a href="https://www.linkedin.com/in/opeyemi-adegboye-58a35b1b4/" target="blank"><img align="center"
                             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                             alt="opeyemi-ogunniyi-58a35b1b4" height="30" width="40" /></a>
-      <a href="https://kaggle.com/opeyemiogunniyi" target="blank"><img align="center"
+     <!-- <a href="https://kaggle.com/opeyemiogunniyi" target="blank"><img align="center"
                             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-                            alt="opeyemiogunniyi" height="30" width="40" /></a>
+                            alt="opeyemiogunniyi" height="30" width="40" /></a>-->
       <a href="https://instagram.com/ademi_dun" target="blank"><img align="center"
                             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                             alt="ademi_dun" height="30" width="40" /></a>
